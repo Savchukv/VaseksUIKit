@@ -13,3 +13,7 @@ If you want something specific, start an issues. Thank's 🙋🏽‍♂️
 
 ## ToDo
 Add more components.
+
+## Preview
+![](https://github.com/Savchukv/VaseksUIKit/blob/master/preview_1.png)
+![](https://github.com/Savchukv/VaseksUIKit/blob/master/preview_2.png)
